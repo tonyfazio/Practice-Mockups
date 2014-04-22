@@ -49,6 +49,14 @@
   background-color: red;
   display:inline-block;
 }
+
+#middle_images #arrow{
+    background-color: red;
+    display: inline;
+    position: relative;
+    bottom: 70px;
+}
+
 #middle_images img{
   height: 185px;
   border-radius: 100%;
@@ -62,4 +70,10 @@
   background-color: red;
   height: 50px;
   width:50px;
+}
+
+#arrow img{
+  border-radius: 0%;
+  display: inline-block;
+  height: 50px;
 }

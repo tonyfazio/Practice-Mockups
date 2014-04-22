@@ -1,0 +1,34 @@
+
+#body {
+  background-color: #ddf5ff;
+}
+
+#top_bar {
+  background-color: #0079ad;
+  height: 60px;
+
+}
+#logo {
+   display: inline-block;
+   height: 60px;
+   background-color: yellow;
+}
+
+#links {
+   display: inline-block;
+   float: right;
+}
+
+#developers {
+   display: inline-block;
+   background-color: red;
+   height: 31px;
+   width: 143px;
+}
+
+#chat_button {
+   display: inline-block;
+   background-color: orange;
+   height: 31px;
+   width: 197px;
+}

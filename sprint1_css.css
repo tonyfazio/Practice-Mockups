@@ -34,20 +34,24 @@
 
 #middle_images{
   background-color: yellow;
+  height: 500px;
 }
 #middle_images #Copy{
   background-color: red;
   display:inline-block;
+  height: 400px;
 }
 
 #middle_images #Paste{
   background-color: red;
   display:inline-block;
+  height: 400px;
 }
 
 #middle_images #video_chat{
   background-color: red;
   display:inline-block;
+  height: 400px;
 }
 
 #middle_images #arrow{
@@ -76,4 +80,11 @@
   border-radius: 0%;
   display: inline-block;
   height: 50px;
+}
+
+#last_button button{
+  background-color: #4dbf41;
+  height: 46px;
+  width: 402px;
+  color: white;
 }

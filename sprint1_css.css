@@ -10,8 +10,7 @@
 }
 #logo {
    display: inline-block;
-   height: 60px;
-   background-color: yellow;
+
 }
 
 #links {
@@ -31,4 +30,36 @@
    background-color: orange;
    height: 31px;
    width: 197px;
+}
+
+#middle_images{
+  background-color: yellow;
+}
+#middle_images #Copy{
+  background-color: red;
+  display:inline-block;
+}
+
+#middle_images #Paste{
+  background-color: red;
+  display:inline-block;
+}
+
+#middle_images #video_chat{
+  background-color: red;
+  display:inline-block;
+}
+#middle_images img{
+  height: 185px;
+  border-radius: 100%;
+  background-color: #0079ad;
+  display: inline;
+
+}
+
+.steps div{
+  display: inline-block;
+  background-color: red;
+  height: 50px;
+  width:50px;
 }
